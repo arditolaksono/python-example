@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6bde779a-bdef-486b-8c93-b8a24597a45b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1e2yG8FvdAdlWAVN7ieq28mM4Ua" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bde779a-bdef-486b-8c93-b8a24597a45b" name="Default Changelist" comment="" />
+      <created>1593533884840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593533884840</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="500" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593616642341">
+      <screen x="65" y="24" width="1855" height="976" />
+    </state>
+    <state x="500" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.24.1855.976@65.24.1855.976" timestamp="1593616642341" />
+    <state x="105" y="24" key="#main" timestamp="1593664235542">
+      <screen x="65" y="24" width="1295" height="744" />
+    </state>
+    <state x="105" y="24" key="#main/65.24.1295.744@65.24.1295.744" timestamp="1593664235542" />
+    <state x="283" y="139" key="EnvironmentVariablesDialog" timestamp="1593664216168">
+      <screen x="65" y="24" width="1295" height="744" />
+    </state>
+    <state x="283" y="139" key="EnvironmentVariablesDialog/65.24.1295.744@65.24.1295.744" timestamp="1593664216168" />
+    <state width="1272" height="193" key="GridCell.Tab.0.bottom" timestamp="1593664258372">
+      <screen x="65" y="24" width="1295" height="744" />
+    </state>
+    <state width="1272" height="193" key="GridCell.Tab.0.bottom/65.24.1295.744@65.24.1295.744" timestamp="1593664258372" />
+    <state width="1377" height="247" key="GridCell.Tab.0.bottom/65.24.1855.976@65.24.1855.976" timestamp="1593616860338" />
+    <state width="1272" height="193" key="GridCell.Tab.0.center" timestamp="1593664258369">
+      <screen x="65" y="24" width="1295" height="744" />
+    </state>
+    <state width="1272" height="193" key="GridCell.Tab.0.center/65.24.1295.744@65.24.1295.744" timestamp="1593664258369" />
+    <state width="1377" height="247" key="GridCell.Tab.0.center/65.24.1855.976@65.24.1855.976" timestamp="1593616860336" />
+    <state width="1272" height="193" key="GridCell.Tab.0.left" timestamp="1593664258367">
+      <screen x="65" y="24" width="1295" height="744" />
+    </state>
+    <state width="1272" height="193" key="GridCell.Tab.0.left/65.24.1295.744@65.24.1295.744" timestamp="1593664258367" />
+    <state width="1377" height="247" key="GridCell.Tab.0.left/65.24.1855.976@65.24.1855.976" timestamp="1593616860335" />
+    <state width="1272" height="193" key="GridCell.Tab.0.right" timestamp="1593664258370">
+      <screen x="65" y="24" width="1295" height="744" />
+    </state>
+    <state width="1272" height="193" key="GridCell.Tab.0.right/65.24.1295.744@65.24.1295.744" timestamp="1593664258370" />
+    <state width="1377" height="247" key="GridCell.Tab.0.right/65.24.1855.976@65.24.1855.976" timestamp="1593616860337" />
+    <state x="485" y="105" key="SettingsEditor" timestamp="1593617226215">
+      <screen x="65" y="24" width="1855" height="976" />
+    </state>
+    <state x="485" y="105" key="SettingsEditor/65.24.1855.976@65.24.1855.976" timestamp="1593617226215" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1593616577352">
+      <screen x="65" y="24" width="1855" height="976" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/65.24.1855.976@65.24.1855.976" timestamp="1593616577352" />
+    <state x="700" y="239" key="search.everywhere.popup" timestamp="1593616980155">
+      <screen x="65" y="24" width="1855" height="976" />
+    </state>
+    <state x="700" y="239" key="search.everywhere.popup/65.24.1855.976@65.24.1855.976" timestamp="1593616980155" />
+  </component>
+</project>
