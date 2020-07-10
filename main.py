@@ -3,6 +3,7 @@
 def main(msg): print(msg)
 
 //adding second command
+//adding another command
 
 //print message
 
